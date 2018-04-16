@@ -1,0 +1,24 @@
+{
+  "name": "gl-i18n",
+  "version": "1.0.0",
+  "description": "Internationalization plugin for Vue.js",
+  "main": "i18n.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phunsuke/vue-i18n.git"
+  },
+  "keywords": [
+    "vue",
+    "i18n",
+    "language"
+  ],
+  "author": "phunsuke",
+  "license": "GNU GENERAL PUBLIC",
+  "bugs": {
+    "url": "https://github.com/phunsuke/vue-i18n/issues"
+  },
+  "homepage": "https://github.com/phunsuke/vue-i18n#readme"
+}
